@@ -1,5 +1,6 @@
-// unhookDll.asm
+// unhook.c
 // 2024
+// Telegram: https://t.me/strikelab
 // Discord: @patchguard
 // Tox: 5BCB80569AC334FDA5B7806ABC05DDFE3AF8F126E08D0EA6D21DA3C13B43F164188C3EEE89E9
 // unhook ring3
